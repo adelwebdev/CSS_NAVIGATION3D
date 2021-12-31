@@ -1,0 +1,29 @@
+
+/*# sourceMappingURL=style.css.map */
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates:600&display=swap'
+);
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat Alternates', serif;
+}
+body{
+    background: url(./media/basic-pics/entrepreneur-593378.jpg) no-repeat 0% 0%/cover;
+    min-height: 100vh;
+}
+.content{
+    margin: 2rem 2rem 0 29rem;
+}
+h1{
+    font-size: 6rem;
+    margin: 3rem 0;
+    text-shadow: 4px 4px 4px #d5d5d5, 7px 7px 0px rgba(0, 0, 0, 0.2);
+}
+p{
+    padding: 2rem;
+    margin-bottom: 1rem;
+    background: rgba(255, 169, 9, 0.2);
+    border-bottom: 1px solid #333;
+}
+
